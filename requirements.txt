@@ -1,0 +1,12 @@
+# Python 3.12.14; matches the recovered historical tree-model environment.
+numpy==2.5.3
+pandas==3.0.6
+scipy==1.18.1
+scikit-learn==1.9.1
+rdkit==2026.3.6
+catboost==1.2.10
+xgboost==3.4.2
+joblib==1.6.0
+matplotlib==3.11.2
+ipython==9.17.1
+itables==2.9.1
